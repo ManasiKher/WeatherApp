@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4E4E4E</color>
+    <color name="colorPrimaryDark">#004782</color>
+    <color name="colorAccent">#ffcb0e</color>
+    <color name="cerulean">#0277bc</color>
+    <color name="blue1">#3a92c8</color>
+    <color name="pick_cock_blue">#025d96</color>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="trasperent">#c7025d96</color>
+    <color name="transperent2">#00000000</color>
+    <color name="light_grey_scale2">#ececec</color>
+    <color name="light_grey">#D3D3D3</color>
+    <color name="dark_grey">#4E4E4E</color>
+    <color name="gray_scale">#3b3b3b</color>
+    <color name="card_pink">#fe7979</color>
+    <color name="card_yellow">#ffdf6d</color>
+    <color name="button_colour">#ffc107</color>
+    <color name="hint_colour">#47071d2a</color>
+    <color name="dark_grey1">#acacac</color>
+    <color name="grey_text">#7f7f7f</color>
+    <color name="grey_scale2">#e9ebe8</color>
+    <color name="grey_scale3">#eaeaea</color>
+    <color name="grey_scale4">#2e2e2e</color>
+    <color name="grey_scale5">#c8c6c6</color>
+    <color name="dull_grey">#802e2e2e</color>
+    <color name="grey_scale6">#cdcdcd</color>
+    <color name="grey_scale7">#2c3e50</color>
+    <color name="grey_scale_text">#383838</color>
+    <color name="toolbar_text">#dae9f2</color>
+    <color name="grey_scale8">#3b3b3b</color>
+    <color name="grey_scale9">#7f8c8d</color>
+    <color name="grey_scale10">#5b656f</color>
+    <color name="grey_scale11">#a7a7a7</color>
+    <color name="grey_scale12">#d8d8d8</color>
+    <color name="grey_scale13">#464336</color>
+    <color name="defaultContentColor">@android:color/black</color>
+    <color name="defaultBorderFlagColor">@android:color/transparent</color>
+    <color name="light_blue">#dae9f2</color>
+    <color name="red_solid">#f26257</color>
+    <color name="shirt1">#e6584f</color>
+    <color name="shirt2">#a0a9e2</color>
+    <color name="shirt3">#3b3a40</color>
+    <color name="shirt4">#3e1b3c</color>
+    <color name="shirt5">#e3f2d5</color>
+    <color name="shirt6">#efeffa</color>
+    <color name="blue2">#a6c3d5</color>
+    <color name="blue3">#dae9f2</color>
+    <color name="disabled_text">#803b3b3b</color>
+
+
+    <color name="gray">#575757</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="semi_transparent_black">#C8000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="overlay_bottom_bar_separators">#333333</color>
+    <color name="overlay_bottom_bar_background">#1E1E1E</color>
+
+</resources>

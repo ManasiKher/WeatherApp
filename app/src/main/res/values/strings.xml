@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kotlin Day2</string>
+    <string name="city_name">City name</string>
+    <string name="weather_report">Weather Report</string>
+    <string name="temperature">temperature</string>
+    <string name="day_details">Day details</string>
+    <string name="temp_val">Temp Val</string>
+    <string name="weather_summary">Weather summary</string>
+    <string name="sunrise_time">SunRise Time</string>
+    <string name="sunset_time">SunSet Time</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="pressure">Pressure</string>
+    <string name="uv_index">UV Index</string>
+    <string name="time">time</string>
+
+</resources>
