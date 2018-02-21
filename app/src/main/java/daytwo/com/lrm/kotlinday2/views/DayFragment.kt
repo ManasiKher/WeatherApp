@@ -112,9 +112,9 @@ class DayFragment : Fragment() {
         var summary=response.getHourly()?.getSummary()
         tvWeatherSummary.text= "Weather Summary: $summary"
         var sunrise=response.getHourly()?.getData()?.get(0)?.getTime().toString()
-        tvSunrise.text= "Sunrise: $sunrise"
+        tvSunrise.text= "Sunrise: ${DateTimeUtils.getDate(response.getHourly()?.getData()?.get(0)?.getTime()?.toLong())}"
         var sunset=response.getHourly()?.getData()?.get(0)?.getTime().toString()
-        tvSunset.text= "Sunset: $sunset"
+        tvSunset.text= "Sunset: ${DateTimeUtils.getDate(response.getHourly()?.getData()?.get(0)?.getTime()?.toLong())}"
         var windSpeed = response.getCurrently()?.getWindSpeed().toString()
         tvWind.text="WindSpeed: $windSpeed"
         var humidity = response.getCurrently()?.getHumidity().toString()

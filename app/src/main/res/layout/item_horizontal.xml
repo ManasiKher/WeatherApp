@@ -11,6 +11,7 @@
     app:layout_constraintTop_toTopOf="parent"
     android:padding="6dp"
     android:gravity="center"
+    android:textColor="@color/white"
     android:id="@+id/tv_day_time"
     android:text="@string/time"/>
     <ImageView
@@ -30,6 +31,7 @@
         app:layout_constraintTop_toBottomOf="@+id/iv_day_time"
         android:id="@+id/tv_day_temp"
         android:padding="6dp"
+        android:textColor="@color/white"
         android:gravity="center"
         android:text="@string/time"/>
 </android.support.constraint.ConstraintLayout>
