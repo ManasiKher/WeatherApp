@@ -1,7 +1,7 @@
 # WeatherApp
 Android daily app Challenge Day2(WeatherApp) : Language Kotlin
 
- Basic Weather app Inclues:
+ Basic Weather app includes:
  1.View Pager implementation
  2.Retrofit implementation
 
